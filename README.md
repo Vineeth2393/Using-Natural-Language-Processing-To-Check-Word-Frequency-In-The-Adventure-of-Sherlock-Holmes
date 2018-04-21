@@ -1,0 +1,2 @@
+# Using-Natural-Language-Processing-To-Check-Word-Frequency-In-The-Adventure-of-Sherlock-Holmes
+Natural Language Processing is one of the most commonly used technique which is implemented in machine learning applications — given the wide range of analysis, extraction, processing and visualising tasks that it can perform. In this article, you will learn how to implement all of these aspects and present your project. The primary goal of this project is to tokenize the textual content, remove the stop words and find the high frequency words.
